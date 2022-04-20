@@ -11,5 +11,5 @@
 #########################################################################
 
 
-#EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", RT France
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1650510368/ei/wHVgYte1Da-L2_gPhOen8Ac/ip/20.114.116.52/id/eJ6ZMd4sVrI.2/source/yt_live_broadcast/requiressl/yes/tx/24027699/txs/24027699%2C24027700%2C24027701%2C24027702%2C24067854/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC7gNIUeeFgICQ6bgLYu_Cl3b/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgAUiuyB0PzN8LGQX7U5nx-kVwM6yGFA-IrurbMM3KQfcCIDuXiv95sMDBX7LxoDzFkXKH6gtlpoBOkMjeTdp5qLFP/file/index.m3u8
+#EXTINF:-1 group-title="Qatar" tvg-logo="" tvg-id="", Aljazzera
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1650511589/ei/hXpgYp3SGsjChwaGsYJY/ip/20.25.28.1/id/eJ6ZMd4sVrI.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC0wpK6vquZ4D-UqJZYz-vXsV/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOaHSqphucd2A1RuMTGpKXthSz526NERdUknQK6eBIg6AiB5oXGtlOVf1aH_4IoyVspwf5SQa2zhRgg-6lytrn7EcQ%3D%3D/file/index.m3u8
