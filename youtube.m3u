@@ -12,7 +12,7 @@
 
 
 #EXTINF:-1 group-title="Qatar" tvg-logo="" tvg-id="", Aljazzera
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1653956499/ei/MwuVYv-FKdzFlu8Py6uuUA/ip/40.83.9.41/id/eJ6ZMd4sVrI.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC9SUmeJ5IOJ5XfLHnggVNSGA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgXiNyzQN9quEFiL37hunm1NBCAKdI05UTlL9DbDoBGpsCIQDRmPCgyxC-H5udEoFt-nA65ervreZf6ntNeybtQIxhXw%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Qatar" tvg-logo="" tvg-id="", fr24
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1653956500/ei/NAuVYtP1EoPpiwS17pagBQ/ip/40.83.9.41/id/8BZpOolYLUA.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC5iUK5tm_PsKBIkWZ7OG6VBI/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgDtZ5ZH8xGgyAo5z7hiIh4T4V4EJj5Cy-9ijP7tBf3fQCIFKGpsn-KVyRXPzlBUg1Qy6dHDlqFG5yGHs0PbgJuMWg/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
